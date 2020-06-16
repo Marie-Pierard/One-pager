@@ -12,6 +12,5 @@ Une journée
 Marie Pierard, dans le cadre de la formation au développement Web dispensée par BeCode
 
 ## État d'avancement : 
-Tâches minimales exécutées /
-Possibilité d'amélioration à l'aide de CSS
-
+Tâches minimales exécutées  
+Possibilités d'amélioration avec CSS
